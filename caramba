@@ -1,0 +1,423 @@
+#EXTM3U
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK SBT
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK SBT PE HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK SBT - PE | CARUARÚ
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK REDE TV SP
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w304668891.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK REDE TV SD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1537397908.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK REDE TV HD
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK TV VITORIA - RECORD
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK TVE BRASIL
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK TV EDUCATIVA
+http://rbc.directradios.com:1935/rbc/rbc_720p/playlist.m3u8?CANAISGLAU
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK TV UP HD
+http://caikron.com.br:1935/unipar/tvup/chunklist_w737489399.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK TV UP HD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK NBR
+http://ebctveventual01-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebctveventual01/_definst_/live.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK REAL MADRID TV (ON)
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1 group-title="CANAL ABERTO",WENDEL TECK ABU DABI SPORT 2 HD (ON)
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK CAT TVE
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w708731897.m3u8
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK MTV CLIPES 1
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK MASTER TV
+http://wowza4.catve.com.br:1935/mastertv/livestream/live.m3u8
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK TOP TV
+http://173.236.10.10:1935/toptv/toptv/chunklist_w233160029.m3u8
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK TV CLIMA
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK TV DIÁRIO DO SERTÃO - PARAÍBA
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w980633800.m3u8
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK TV DIÁRIO DO SERTÃO - PB
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK TV SOL PB
+http://wse01.logicahost.com.br:1935/tvsol/tvsol/chunklist_w1234817956.m3u8
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK TV CARUARU
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK TV MACEIÓ
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK ALPHA CHANNEL
+http://streamingbr.com:1935/st87-live/st87-live/livestream.m3u8
+#EXTINF:-1 group-title="VARIEDADES",WENDEL TECK RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",WENDEL TECK REDE SÉCULO 21
+http://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/master.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="RELIGIOSO",WENDEL TECK CANÇÃO NOVA HD
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",WENDEL TECK TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8?
+#EXTINF:-1 group-title="RELIGIOSO",WENDEL TECK TV NOVO TEMPO
+http://stream.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_w86202803_b2128000_slpor.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",WENDEL TECK TV VERDADE
+http://ocatv.mcgi.me:1935/public/247_br/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="RELIGIOSO",WENDEL TECK TV MISSÃO
+http://wse7.player.tv.br:1935/tvmissao/mp4:tvmissao/chunklist_w2064616456.m3u8
+#EXTINF:-1 group-title="RELIGIOSO",WEB TV LEÃO DE JUDÁ
+http://streaming63.sitehosting.com.br:1935/juda/juda/live.m3u8
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK CBN - CAMPINA GRANDE
+http://audio.cabobranco.tv.br:8000/cbncg
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK CORREIO 98 FM - CAMPINA GRANDE
+http://ice11.crossradio.com.br:8026/;*.mp3
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK RADIO 101 FM - CAMPINA GRANDE
+http://radioapp.agenciaellis.com.br/Cariri1160
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK ARAPUAN - JOÂO PESSOA
+http://centova6.ciclanohost.com.br:9104/;stream.nsv
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK CORREIO - JOÃO PESSOA
+http://ice11.crossradio.com.br:8022/;*.mp3
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK CORREIO 98 FM - JOÃO PESSOA
+http://ice11.crossradio.com.br:8014/;*.mp3
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK MIX FM - JOÃO PESSOA
+http://158.69.117.161:8016/live
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK CABO BRANCO FM - JOÃO PESSOA
+http://audio.cabobranco.tv.br:8000/cbfm
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK CPAD - JOÃO PESSOA
+http://server3.webradios.com.br:9404/;
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK 104 FM SOUSA
+http://stream.7br.com.br:10018/;
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK LIDER 97 FM - SOUSA
+http://wz3.dnip.com.br/lider97/lider97.stream/playlist.m3u8
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK LIBERDADE FM - POMBAL
+http://centova14.ciclanohost.com.br:8180/;
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK ESTAÇÃO JC - POMBAL
+http://streaming15.hstbr.net:8224/live
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK WEB RÁDIO NO TOQUE DA BOLA - POMBAL
+http://server01.ouvir.radio.br:8060/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK ARAPUAN - CAJAZEIRAS
+http://centova6.ciclanohost.com.br:9346/stream/1/
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK RADIO OESTE AM - CAJAZEIRAS
+http://streaming06.maxcast.com.br:8120/live
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK ARAPUAN - CAMPINA GRANDE
+http://centova6.ciclanohost.com.br:9518/;stream.nsv
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK ARAPUAN - PATOS
+http://centova6.ciclanohost.com.br:9312/;stream.nsv
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK ESPINHARAS AM - PATOS
+http://stm45.srvstm.com:26924/stream/1/
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK SERTANEJO RAIZES
+http://192.99.150.31:9155/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK BOSSA NOVA
+http://6d9a.webradio.upx.net.br:9974/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK RAP NACIONAL
+http://192.99.150.31:8377/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK REGGAE
+http://192.99.150.31:8715/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK ROBERTO CARLOS
+http://192.99.150.31:9137/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK ROCK CLASSICO
+http://192.99.150.31:9125/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK RODEIO
+http://192.99.150.31:9473/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK SERTANEJA
+http://192.99.150.31:9485/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK SMOOTH JAZZ
+http://192.99.150.31:8042/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK TECHNO
+http://192.99.150.31:8301/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK TECNO BREGA
+http://192.99.150.31:8989/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK STUDIO DO AMOR
+http://192.99.150.31:8962/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK METROPOLETANA FM AO VIVO
+http://ice.paineldj3.com.br:8006/live
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK METROPOLETANA FM - SERTANEJO
+http://m.paineldj6.com.br:8504/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK METROPOLETANA FM - POP
+http://paineldj4.com.br:8510/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK METROPOLETANA FM - FUNK
+http://paineldj4.com.br:8306/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK METROPOLETANA FM - LIGHT
+http://paineldj4.com.br:8594/stream
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK RÁDIO ATLÂNTIDA FM
+http://42747t.lp.azioncdn.net/2747t/a/mp4:access_options/rtmp-live/atl_poa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="COMO DEFENDER UM ASSASSINO",WENDEL TECK RÁDIO ELDORADO FM
+http://noasrv.caster.fm:10136/stream
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK ABU DABI SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK Real Madrid TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK ALL SPORTS TV
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8?AndreOid
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK CINE SKY 2
+http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK NOVA CINEMA 4
+http://stmv2.srvstm.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK SPORT 2 HD (ON)
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK REAL MADRID TV HD (ON)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK Real Madrid TV SD (ON)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK ABU DABI SPORT 1 HD (ON)
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK SBT PE SD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK REDE TV RJ
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK TV APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/chunklist_w1646479017.m3u8
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK TV CULTURA
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK CINE+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK TV Santa Cecilia (Santos-SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8?LISTASGLAU
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK RAI YOYO
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?LISTASGLAU
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK CLASSIQUE TV ALTERNATIVO
+http://stmv2.srvstm.com/classique/classique/playlist.m3u8?CANAISGLAU
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK TV DESTAK
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?LISTASGLAU
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK TV JORNAL LIMEIRA
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8?LISTASGLAU
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK TV J.SID
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8?LISTASGLAU
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK TV VIANNEY
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8?LISTASGLAU
+#EXTINF:-1 group-title="CANAIS mais",WENDEL TECK MULTI RIO
+http://187.111.97.45:1935/webtv/webtv/live.m3u8?LISTASGLAU
+#EXTINF:-1 group-title="Futebol Ao Vivo",WENDEL TECK REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 group-title="Futebol Ao Vivo",WENDEL TECK Red Bull TV
+http://rbtvdiglinear-i.akamaihd.net/hls/live/241719/ATfallback/master.m3u8
+#EXTINF:-1 group-title="Futebol Ao Vivo",WENDEL TECK ESPORTE INTERATIVO 2
+http://d2xuvs5rzrvjs7.cloudfront.net:80/live-stream-secure/5801261189b415d108f9603c/publish/media_2500.m3u8?es=vrzn-ei-ee.cdn.mdstrm.com&proto=http
+#EXTINF:-1 group-title="Futebol Ao Vivo",WENDEL TECK NOVA CINEMA 3
+http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+#EXTINF:-1 group-title="Futebol Ao Vivo",WENDEL TECK NOVA CINEMA 5
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 group-title="Futebol Ao Vivo",WENDEL TECK REDE TV
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8?LISTASGLAU
+#EXTINF:-1 group-title="Esportes",WENDEL TECK SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 group-title="Esportes",WENDEL TECK All Sports 2
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8?Arlen
+#EXTINF:-1 group-title="Esportes",WENDEL TECK Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="Alternativos",WENDEL TECK ABU DABI SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8?Compartilhandolink
+#EXTINF:-1 group-title="TV Aberta",WENDEL TECK SPORT 1 HD (ON)
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="Canais Internacionais",WENDEL TECK TV FUTURA
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1787465552.m3u8?
+#EXTINF:-1 group-title="Pedido Especial",WENDEL TECK CLASSIQUE TV
+http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8?CANAISGLAU
+#EXTINF:-1 group-title="Diversos",WENDEL TECK TV Itapetinga
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8?Arlen
+#EXTINF:-1 group-title="Diversos",ITU TV
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?Arlen
+#EXTINF:-1 group-title="Diversos",WENDEL TECK TV Jornal
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w165930016_b216000_sleng.m3u8?Arlen
+#EXTINF:-1 group-title="Diversos",WENDEL TECK MKK Web TV
+http://tv02.logicahost.com.br:1935/mkkweb/mkkweb/live.m3u8?Arlen
+#EXTINF:-1 group-title="Diversos",WENDEL TECK Multi Rio
+http://187.111.97.45:1935/webtv/webtv/live.m3u8?Arlen
+#EXTINF:-1 group-title="Diversos",WENDEL TECK TV Maceió 1
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8?Arlen
+#EXTINF:-1 group-title="Diversos",WENDEL TECK TV Mackenzie
+http://ec2-54-157-173-68.compute-1.amazonaws.com:8081/live_tvmackenzie/tvmackenzie/playlist.m3u8?Arlen
+#EXTINF:-1 group-title="Diversos",WENDEL TECK PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8?Arlen
+#EXTINF:-1 group-title="Diversos",WENDEL TECK TV Santa Cecilia
+http://flash1.crossdigital.com.br:1935/2063/2063/chunklist_w79166362.m3u8?Arlen
+#EXTINF:-1 group-title="Diversos",WENDEL TECK TVE 1
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?Arlen
+#EXTINF:-1 group-title="Noticias",WENDEL TECK DW2
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_4_av-p.m3u8?Arlen
+#EXTINF:-1 group-title="Noticias",WENDEL TECK NTV News 24
+http://www.news24.jp/livestream/index.m3u8?Arlen
+#EXTINF:-1 group-title="Noticias",WENDEL TECK Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8?Arlen
+#EXTINF:-1 group-title="Noticias",WENDEL TECK Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8?Arlen
+#EXTINF:-1 group-title="Outros",WENDEL TECK TV 5 Monde
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8?Arlen
+#EXTINF:-1 group-title="Outros",WENDEL TECK Senal Provincial
+http://www.trimi.com.ar:80/provincial/streaming/mystream.m3u8?Arlen
+#EXTINF:-1 group-title="Outros",WENDEL TECK 1-2-3 TV Alemanha
+http://123tv.cdn.ses-ps.com/index.m3u8?Arlen
+#EXTINF:-1 group-title="Outros",WENDEL TECK Canal 10 Cancun
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?Arlen
+#EXTINF:-1 group-title="Outros",WENDEL TECK Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?Arlen
+#EXTINF:-1 group-title="Musical",WENDEL TECK Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?Arlen
+#EXTINF:-1 group-title="Musical",WENDEL TECK TV Clima
+http://stmv1.srvstm.com:1935/tvcadm/tvcadm/live.m3u8?wowzasessionid=656679665
+#EXTINF:-1 group-title="Musical",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?Arlen
+#EXTINF:-1 group-title="Musical",WENDEL TECK ON 1
+http://rtmp.one.by:1200?Arlen
+#EXTINF:-1 group-title="Musical",WENDEL TECK ON 2
+http://rtmp.one.by:1300?Arlen
+#EXTINF:-1 group-title="Musical",WENDEL TECK ON 3
+http://rtmp.one.by:2300?Arlen
+#EXTINF:-1 group-title="Religiosos",WENDEL TECK Canção Nova 1
+http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Kiss FM
+http://kissfm.live24.gr/kiss2111?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Mix Sao Paulo
+http://tuneinmix.crossradio.com.br:8008/;?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Rádio Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Anos 70
+http://192.99.150.31:8241/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Anos 80
+http://192.99.150.31:8697/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Anos 90
+http://192.99.150.31:8056/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Anos 2000
+http://6d9a.webradio.upx.net.br:9940/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Axé
+http://192.99.150.31:8305/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Bossa Nova
+http://6d9a.webradio.upx.net.br:9974/stream?
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Brega
+http://192.99.150.31:9007/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Eletrônica
+http://192.99.150.31:9095/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Festa
+http://6d9a.webradio.upx.net.br:9070/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Funk
+http://192.99.150.31:9089/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Gospel
+http://192.99.150.31:9101/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Hip Hop
+http://192.99.150.31:8721/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Historinha Infantil
+http://192.99.150.31:8371/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Jazz
+http://192.99.150.31:8042/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Kids
+http://192.99.150.31:9431/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Lounge
+http://6d9a.webradio.upx.net.br:9064/stream?Arlen
+#EXTINF:-1 group-title="Rádios",Metal
+http://6d9a.webradio.upx.net.br:9898/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK MPB
+http://192.99.150.31:8775/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Música Clássica
+http://6d9a.webradio.upx.net.br:9970/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK New Rock
+http://6d9a.webradio.upx.net.br:8028/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Pagode
+http://6d9a.webradio.upx.net.br:9061/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Pop Hits
+http://6d9a.webradio.upx.net.br:9046/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Pop Rock
+http://6d9a.webradio.upx.net.br:8016/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Rap Nacional
+http://192.99.150.31:8377/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Reggae
+http://192.99.150.31:8715/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Rock Clássico
+http://192.99.150.31:9125/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Românticas
+http://192.99.150.31:8962/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Sertanejo
+http://192.99.150.31:9485/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Sertanejo Universitário
+http://192.99.150.31:9191/stream?Arlen
+#EXTINF:-1 group-title="Rádios",WENDEL TECK Trilhas Sonoras
+http://6d9a.webradio.upx.net.br:9896/stream?Arlen
+#EXTINF:-1 group-title="Webcam",WENDEL TECK Las Vegas
+http://videos3.earthcam.com/fecnetwork/eclasvegas.flv/chunklist_w1100686854.m3u8?Arlen
+#EXTINF:-1 group-title="Webcam",WENDEL TECK SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 group-title="Webcam",WENDEL TECK SPORT 2 HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 group-title="Webcam",WENDEL TECK ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 group-title="Webcam",WENDEL TECK SBT PI HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8?MEGAMAXIPTV
+#EXTINF:-1 group-title="Webcam",WENDEL TECK SBT Recife HD*
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
+#EXTINF:-1 group-title="Notícias",WENDEL TECK Catve HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="TV MIX",WENDEL TECK Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
+#EXTINF:-1 group-title="TV MIX",WENDEL TECK Catve HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?PEDROJUNIORTUTORIAIS
+#EXTINF:-1 group-title="TV MIX",WENDEL TECK APARECIDA
+http://caikron.com.br:1935/tvaparecida/tvaparecida.stream/playlist.m3u8
+#EXTINF:-1 group-title="TV MIX",WENDEL TECK REDE EVANGELIZAR
+http://flash1.crossdigital.com.br:1935/evangelizar/tv/live.m3u8
+#EXTINF:-1 group-title="TV MIX",WENDEL TECK REDE TV
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:-1 group-title="TV MIX",WENDEL TECK REDE TV
+http://evpp.mm.uol.com.br:1935/redetv2/redetv2/live.m3u8
+#EXTINF:-1 group-title="TV MIX",WENDEL TECK SBT PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1 group-title="TV MIX",WENDEL TECK ALL SPORTS
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 group-title="TV MIX",Agro Canal
+http://189.86.89.116:80/hls-live/liveac/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="TV MIX",Cine+
+http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="TV MIX",TV RIO PRETO
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:-1 group-title="TV MIX",TV SOL HD
+http://tv02.logicahost.com.br:1935/tvsol/tvsol/live.m3u8
+#EXTINF:-1 group-title="TV MIX",TV TERCEIRO ANJO
+http://streamer1.streamhost.org:1935/salive/GMI3anjoh/livestream.m3u8
+#EXTINF:-1 group-title="TV MIX",TV TRANSAMÉRICA
+http://tvtransamerica.crossdigital.com.br:1935/ponto2/transamerica2/live.m3u8
+#EXTINF:-1 group-title="TV MIX",TV TUBÁ
+http://caikron.com.br:1935/rcr_tuba/tv.stream/live.m3u8
+#EXTINF:-1 group-title="TV MIX",TV UP HD
+http://caikron.com.br:1935/unipar/tvup/live.m3u8
+#EXTINF:-1 group-title="TV MIX",TV VERDE VALE
+http://ssh101.com:80/m3u8/dyn/13verdevalelive13/index.m3u8
+#EXTINF:-1 group-title="TV MIX",TV VIANNEY
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/live.m3u8
+#EXTINF:-1 group-title="TV MIX",TV VITÓRIA
+http://tvvitoria.viacast.tv:80/livepl/tvvitoria_2_original.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV ITAPETININGA
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV JORNAL CARUARU
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV JORNAL LIMEIRA
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV JORNAL RECIFE
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_b216000_sleng.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV J.SID
+http://stmv2.euroti.com.br:1935/tvjsid/tvjsid/live.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV MACEIÃƒâ€œ
+http://tv01.logicahost.com.br:1935/toptv/toptv/live.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV MACKENZIE
+http://ec2-54-157-173-68.compute-1.amazonaws.com:8081/live_tvmackenzie/tvmackenzie/playlist.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV MAIS CANEDO
+http://tv01.logicahost.com.br:1935/maxjalles/maxjalles/live.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV MISSÃƒÆ’O
+http://wse7.player.tv.br:1935/tvmissao/tvmissao/live.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV MONTEIRO
+http://stmv1.euroti.com.br:1935/tvmonteiro/tvmonteiro/live.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV MUNDIAL
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV NATIVA
+http://srv6.zoeweb.tv:1935/zw601/stream/live.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV PAJEÃƒÅ¡
+http://stmv2.euroti.com.br:1935/tvpajeu/tvpajeu/live.m3u8
+#EXTINF:-1 group-title="RÁDIOS",TV RIO PRETO
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
